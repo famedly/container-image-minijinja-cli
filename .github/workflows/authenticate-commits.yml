@@ -9,4 +9,4 @@ jobs:
       contents: read
       pull-requests: write
       issues: write
-    uses: famedly/github-workflows/.github/workflows/authenticate-commits.yml@main
+    uses: famedly/github-workflows/.github/workflows/authenticate-commits.yml@57b383862ba81dfa265bb33d492e2bbcbc96891d
